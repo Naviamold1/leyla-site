@@ -1,0 +1,7 @@
+.cover, .bg-top {
+    background-size: contain !important;
+}
+
+.bg-black-60 {
+    /* background-color: rgb(47, 39, 39) !important; */
+}
