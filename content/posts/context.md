@@ -2,14 +2,11 @@
 title: "Context"
 date: 2022-12-15T00:02:03+04:00
 draft: false
+featured_image: images/context.png
 ---
 
-Mental health has been shown to be a common problem on school campuses. From feeling overwhelmed to struggling with depression, college-aged students are being faced with mental health concerns at an alarming rate. This is tragic because mental health impacts every aspect of our lives, including academic performance.
+Mental health has been shown to be a common problem in IB schools. From feeling overwhelmed to struggling with depression, IB students are being faced with mental health concerns at an alarming rate. This is tragic because mental health impacts every aspect of our lives, including academic performance.
 
-IB schools are one of the most rigorous programs in the world, so it’s no surprise that students might experience mental health concerns. Students often feel overwhelmed by the massive amounts of work required for success; many students find that their grades and test scores drop as a result.
+IB schools are one of the most rigorous programs in the world, so it’s no surprise that students might experience mental health concerns. Students often feel overwhelmed by the massive amounts of work required for success; many students find that their grades and test scores drop as a result. There is an increasing recognition that evidence-based prevention, intervention and treatment for mental health issues are essential for healthy outcomes. Schools are at the forefront of these efforts to help students develop social, emotional, and cognitive skills. However, there is a real need to ensure that schools have evidence-based policies in place when it comes to supporting the well-being of students.
 
-So why is it important to have mental health policy in IB program schools?
-
-* First of all, it will help administrators know what they need to be investing in when it comes to services and resources.
-
-* Secondly, this will help set a precedent for other IB program schools to follow suit with mental health policies. This past year has seen an increase in mental health issues among many students, with far-reaching long-term consequences. Students are not only confronted to the same health risks as the rest of the world, but they are also increasingly subjected to complex traumas such as social anxiety, depression, anxiety, and parental unemployment. Unfortunately, schools have not been capable of providing efficient student support. In some cases, this is due to the limitations of the hybrid learning environment, in most cases many ib schools haven’t considered it at all. The inability to meet students' mental health needs has long been a source of concern.
+It's important to remember that we can't always rely on parents or other adults in the community as a primary response point when it comes to supporting our children in school. We have a collective responsibility to ensure that schools have policies and practices in place that support the well-being of students, staff and the community.

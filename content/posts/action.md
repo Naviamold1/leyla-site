@@ -2,6 +2,7 @@
 title: "Action"
 date: 2022-12-14T23:54:55+04:00
 draft: false
+featured_image: images/action.png
 ---
 
 It is not in the best interest of IB program schools to have policies that are vague, so these policies should be clear, concise and easy to follow. A good policy will include all of the minimum requirements for each student; when it comes to mental health, there is no one-size-fits-all approach. Here are some policies schools must follow to maintain a safe environment among students:

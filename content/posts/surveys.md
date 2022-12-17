@@ -2,7 +2,7 @@
 title: "Surveys"
 date: 2022-12-14T23:56:40+04:00
 draft: false
-featured_image: "images/surveys-svgrepo-com.svg"
+featured_image: "images/survey.png"
 ---
 
 I conducted a survey among my schoolmates with ages from 12-16 about their mental health, the conducted survey ended up with such results:

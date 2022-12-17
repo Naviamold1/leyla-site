@@ -4,7 +4,7 @@ title: "Mental Health Well-Being Policy Recommendations For IB Schools"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: 'https://o.remove.bg/downloads/cdd5dd4d-bb3a-4839-b085-9b2833f16adf/IMG_3587-removebg-preview.png'
+  featured_image: 'images/main.png'
 ---
 ## On this website you will find information about:
 
